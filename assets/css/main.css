@@ -1609,38 +1609,6 @@ input, select, textarea {
     top: -40px;
     right: 0;
 }
-.progress.pink .progress-bar:after{
-    border-bottom-color: #ff4b7d;
-}
-.progress.green .progress-bar:after{
-    border-bottom-color: #5fad56;
-}
-.progress.yellow .progress-bar:after{
-    border-bottom-color: #ffe311;
-}
-.progress.blue .progress-bar:after{
-    border-bottom-color: #3485ef;
-}
-
-
-.progress.red .progress-bar:after{
-    border-bottom-color: #e82939;
-}
-.progress.lilac .progress-bar:after{
-    border-bottom-color: #cd9ce2;
-}
-.progress.teal .progress-bar:after{
-    border-bottom-color: #77e5bd;
-}
-.progress.orange .progress-bar:after{
-    border-bottom-color: #f4a646;
-}
-.progress.lightpink .progress-bar:after{
-    border-bottom-color: #ef9bde;
-}
-.progress.purple .progress-bar:after{
-    border-bottom-color: #a359db;
-}
 @-webkit-keyframes animate-positive{
     0% { width: 0; }
 }
